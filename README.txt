@@ -4,6 +4,5 @@ I have used spring security jwt for authentication
  username :admin
  password :@Admin1234
 
- username :sreejith
- password :$Reejith1903
+
 }
